@@ -1,0 +1,40 @@
+
+---
+
+## 🔹 `.gitignore` (Python + Jupyter + TensorFlow)  
+
+```gitignore
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data and models
+data/
+datasets/
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+*.tflite
+
+# Logs
+logs/
+*.log
+events.out.tfevents*
+
+# Results / plots
+results/
+*.png
+*.jpg
+
+# System files
+.DS_Store
+Thumbs.db
