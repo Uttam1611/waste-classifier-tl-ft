@@ -48,7 +48,7 @@ The model leverages pre-trained convolutional neural networks (CNNs) to achieve 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/waste-classifier-tl-ft.git
+git clone https://github.com/Uttam1611/waste-classifier-tl-ft.git
 cd waste-classifier-tl-ft
 ```
 
